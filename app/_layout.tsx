@@ -17,7 +17,7 @@ export default function RootLayout() {
           }}
         />
         <Drawer.Screen
-          name="first"
+          name="firstComponent"
           options={{
             drawerLabel: "First Component",
             title: "First Component",
